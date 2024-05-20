@@ -1,11 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Hazem Mohsen</h1>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Engineer;Software+Engineer)](https://github.com/rehab732/)
 
 </div>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -31,13 +30,9 @@
   <img width="12" />
 </div>
 
-
-<br>
-<img align="center" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
-<br>
-
-
-
-- 📫 How to reach me **Hazemmohsen188@gmail.com**
-
-
+<div align="center">
+<img alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
+</div>
+<div align="center">
+ 📫 How to reach me hazemmohsen188@gmail.com
+</div>
