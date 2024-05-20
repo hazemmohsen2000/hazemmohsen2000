@@ -33,7 +33,7 @@
 
 
 <br>
-<img align="left" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
+<img align="center" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 <br>
 
 
